@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(152, 186, 221)
+}
+
+.colonisation{
+    display: flex;
+    flex-direction: row;
+}
+
+.centralisation{
+    display: flex;
+    justify-content: center;
+}
